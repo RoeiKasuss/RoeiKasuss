@@ -3,20 +3,19 @@
 ---
 
 ## 👨‍🎓 Education
-**Pursuing B.Sc. in Computer Science**  
-Technion – Israel Institute of Technology
+**Pursuing B.Sc. in Computer Science** - Technion – Israel Institute of Technology
+- LAPIDIM Excellence Program
 
 ---
 
 ## 💼 Professional Experience
-**Student Software Engineer**  
-_Intel Corporation_  
-Developing and maintaining software solutions as part of a leading global technology company.
+**Student Software Engineer** - _Intel Corporation_  
+- Developing and maintaining software solutions as part of a leading global technology company.
 
 ---
 
 ## 💻 Programming Languages
-C, C++, C#, Python
+- C, C++, C#, Python
 
 ---
 
