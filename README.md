@@ -1,16 +1,24 @@
-## Hi there 👋
+# Roei Kasuss
 
-<!--
-**RoeiKasuss/RoeiKasuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍🎓 Education
+**Pursuing B.Sc. in Computer Science**  
+Technion – Israel Institute of Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Professional Experience
+**Student Software Engineer**  
+_Intel Corporation_  
+Developing and maintaining software solutions as part of a leading global technology company.
+
+---
+
+## 💻 Programming Languages
+C, C++, C#, Python
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roei-kasuss)
