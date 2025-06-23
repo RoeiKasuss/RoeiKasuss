@@ -4,7 +4,7 @@
 
 ## 👨‍🎓 Education
 **Pursuing B.Sc. in Computer Science** - **_Technion – Israel Institute of Technology_**
-- LAPIDIM Excellence Program
+- LAPIDIM Excellence Program - https://lapidim.cs.technion.ac.il/
 
 ---
 
