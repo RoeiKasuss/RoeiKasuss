@@ -11,6 +11,7 @@
 ## 💼 Professional Experience
 **Student Software Engineer** - **_Apple_**
 - Building impactful sofware at the most innovative tech company on the planet.
+  
 **Student Software Engineer** - **_Intel Corporation_**  
 - Developing and maintaining software solutions as part of a leading global technology company.
 
